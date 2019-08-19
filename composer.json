@@ -1,5 +1,5 @@
 {
-    "name": "Basic MVC",
+    "name": "Basic-MVC",
     "description": "Basic MVC for Studies",
     "require":{
         "twig/twig": "^2.11"
